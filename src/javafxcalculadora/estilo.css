@@ -22,7 +22,13 @@ and open the template in the editor.
     -fx-font-size: 30px;
 }
 
-#btnMC, #btnMR, #btnMS, #btnMMais, #btnMMenos, #btnSetaEsquerdaLimpar, #btnCE, #btnXY, #btnRaizQuadradaX, #btn7, #btn8, #btn9, #btnDividir, #btnPercentagem, #btn4, #btn5, #btn6, #btnMultiplicar,#btn1DivX,#btn1, #btn2, #btn3, #btnSubtrair,#btnCLimparTudo, #btn0,#btnVirgula,#btnNExclamacao,#btnSoma, #btnResultado {
-    -fx-font-size: 15px;
-    
+.button {
+        
+        -fx-focus-traversable: false;
 }
+
+#btnMC, #btnMR, #btnMS, #btnMMais, #btnMMenos, #btnSetaEsquerdaLimpar, #btnCE, #btnXY, #btnRaizQuadradaX, #btn7, #btn8, #btn9, #btnDividir, #btnPercentagem, #btn4, #btn5, #btn6, #btnMultiplicar,#btn1DivX,#btn1, #btn2, #btn3, #btnSubtrair,#btnCLimparTudo, #btn0,#btnVirgula,#btnNExclamacao,#btnSoma, #btnResultado {
+    -fx-font-size: 15px;    
+}
+
+
