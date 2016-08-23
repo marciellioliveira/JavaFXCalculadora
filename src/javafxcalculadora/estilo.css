@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/08/2016, 12:42:25
+    Author     : Marcielli
+*/
+
+.root {
+   
+}
+
+#paneBG {
+    -fx-background-color: lightgray;
+}
+
+#labelMostraValores {
+    -fx-border-color: grey;
+    -fx-padding: 5px;
+    -fx-font-size: 30px;
+}
+
+#btnMC, #btnMR, #btnMS, #btnMMais, #btnMMenos, #btnSetaEsquerdaLimpar, #btnCE, #btnXY, #btnRaizQuadradaX, #btn7, #btn8, #btn9, #btnDividir, #btnPercentagem, #btn4, #btn5, #btn6, #btnMultiplicar,#btn1DivX,#btn1, #btn2, #btn3, #btnSubtrair,#btnCLimparTudo, #btn0,#btnVirgula,#btnNExclamacao,#btnSoma, #btnResultado {
+    -fx-font-size: 15px;
+    
+}
